@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+application/cache/*
+!application/cache/index.html
+application/logs/*
+!application/logs/index.html
+vendor/
+node_modules/
+.env
+*.sql.gz
